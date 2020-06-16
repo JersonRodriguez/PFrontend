@@ -1,0 +1,29 @@
+
+html,body{
+
+    
+    margin: 0px;
+}
+.hero-image{
+
+    height: 75vh;
+    background: url('fondo.jpg'),green;
+    background-size: cover;
+    background-position: center ;
+    padding: 15px;
+    color: white;
+    text-shadow: black;
+    display: flex;
+    align-items: flex-end;
+    
+}
+.hero-image h1 {
+    margin: 0px;
+    font-size: 72px;
+    text-shadow: 0px 0px 4px #000;
+}
+.hero-image p {
+font-size: 24px;
+text-shadow: 0px 0px 2px #000 ;
+padding: 1px;
+}
