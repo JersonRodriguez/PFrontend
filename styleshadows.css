@@ -26,6 +26,7 @@ body{
     content: "";
     width: 30%;
     height: 10px;
+    
     top: 93%;
     left: 69%;
     transform: rotate(5deg);
